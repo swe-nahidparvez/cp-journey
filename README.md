@@ -1,7 +1,9 @@
 # cp-journey
-Welcome to my Competitive Programming practice repository!
+
+Welcome to my Competitive Programming practice repository
 
 I'm **Nahid Parvez**, a Computer Science student passionate about:
+
 - Competitive Programming
 - Problem Solving
 - Data Structures & Algorithms
@@ -12,6 +14,7 @@ I'm **Nahid Parvez**, a Computer Science student passionate about:
 ## 📌 About This Repository
 
 This repository contains:
+
 - C++ solutions to coding problems
 - Algorithm implementations
 - Data Structures practice
@@ -31,6 +34,7 @@ This repository contains:
 ## 📂 Platforms
 
 Problems are solved from:
+
 - LeetCode
 - Codeforces
 - AtCoder
