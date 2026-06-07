@@ -16,7 +16,7 @@ void drawTraffic(string color, string message, int carPos)
 {
     clearScreen();
 
-    cout << "\n      SMART CITY TRAFFIC\n";
+    cout << "\n      TRAFFIC SIGNAL\n";
     cout << "      +-------------+\n";
 
     if (color == "red")
