@@ -35,7 +35,7 @@ int main()
     cout << "The X Is:" << result << endl;
     result = x << y;
 
-    cout << "\033[35mThe X Is:" << result << endl;
+    cout << "The X Is:" << result << endl;
 
     return 0;
 }
