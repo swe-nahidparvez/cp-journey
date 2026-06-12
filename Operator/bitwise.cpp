@@ -15,8 +15,8 @@ int main()
     // << bitwise shift left  (2 step multiplication)
     // ~ bitwise NOT
 
-    int x = 5;
-    int y = 10;
+    int x = 10;
+    int y = 20;
     int result;
 
     result = x & y;
